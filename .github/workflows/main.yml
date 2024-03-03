@@ -1,3 +1,4 @@
+# This project scans application code using Bandit for vulnerabilities.
 # Name of workflow
 name: CI
 
